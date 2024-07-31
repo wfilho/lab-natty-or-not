@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo: Estudo de idiomas - Avatar IA 🎥
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 35 segundos apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas como ferramenta de Marketing, Vendas e mesmo para criação de produtos como cursos EAD. É um Game Changer para muitos mercados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para criação do texto para treinamento do Avatar;
+- IA Generativa **[HeyGen](https://app.heygen.com/)** para sintetização de voz e geração de avatar virtual;
+- Software de Video **[OBS Studio](https://obsproject.com/pt-br)** para gravação do video de treinamento do avatar.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O HeyGen precisa de um video para treinar o novo Avatar Virtual. Esse video tem uma série de especificações.
+Utilizei o ChatGPT para me ajudar a criar um roteiro para enviar ao HeyGen para criação e treinamento da AI.
+Utilizei o HeyGen para criar o avatar e clonar a minha voz.
+Utilizei o OBS como camera virtual para gerar o chromakey e facilitar que os videos deste Avatar possam ser facilmente editados posteriormente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo é apenas uma demonstração de como as IAs generativas em aplicações de voz e vídeo podem mudar a forma como fazemos as coisas atualmente. Pense assim, esse video foi gerado apenas comigo digitando um prompt. Até o sotaque quando mudei de idioma no meio do vídeo é interpretado e entendido pela IA. Posso criar um curso inteiro sem ter de gastar um minuto mais gravando.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O VÍDEO AQUI](https://youtu.be/i7-0NqyS6dE)
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Este projeto foi uma experiência muito interessante e vejo agora diversas possibilidades de aplicação para ela.
